@@ -1,0 +1,91 @@
+.carousel-inner > .item > img.ss {
+  height:300px;
+}
+
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+}
+
+
+.nopad {
+   padding: 10px;
+   margin: 0;
+}
+
+.gpad{
+	padding: 25px;
+}
+
+a.tabtextmain{
+	font-family: Georgia, serif;
+	font-style: bold;
+	font-size: 24px;
+	padding-top: 14px;
+}
+
+a.tabtext{
+	font-family: Georgia, serif;
+	font-style: italic;
+	font-size: 16px;
+}
+
+.galimg{
+	width: 400px;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+	background-color: red;
+}
+
+h1{
+	 font-family: Georgia, serif;
+	 font-style: italic;
+}
+
+h1.gal{
+	font-family: Georgia, serif;
+	font-style: italic;
+	font-size: 28px;
+	text-align: center;
+}
+
+h2{
+	 font-family: Georgia, serif;
+	 font-style: bold;
+	 font-size: 20px;
+}
+
+h3{
+	 font-family: Georgia, serif;
+	 font-style: italic;
+	 font-size: 16px;
+}
+
+h4{
+	 font-family: Georgia, serif;
+	 font-style: italic;
+	 font-size: 18px;
+	 margin: 0px;
+	 padding-right: 20px;
+}
+
+h5{
+	 font-family: Georgia, serif;
+	 font-size: 14px;
+}
+
+.modal h2{
+	font-family: Georgia, serif;
+	font-size: 22px;
+	text-align: center;
+	font-style: bold;
+}
+
+.modal p{
+	font-family: Georgia, serif;
+	font-size: 16px;
+	text-align: center;
+	margin-top: 25px;
+}
+
